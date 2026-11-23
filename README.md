@@ -69,7 +69,7 @@ Worked on a multimodal machine learning framework for predicting Alzheimer's dis
 
 ## 📂 Featured Projects
 
-### ⭐ [Dexplorer](https://github.com/Abdullah-3600/Dexplorer) • [Live demo](https://dexplorer-ashy.vercel.app)
+### ⭐ [Dexplorer](https://dexplorer-ashy.vercel.app) • [Repo](https://github.com/Abdullah-3600/Dexplorer)
 
 An interactive Pokémon encounter explorer for mainline Pokémon games. Pick a Pokémon and see on the map where to find it, as a heatmap from lowest to highest encounter rate. Hover an area for how to catch it, the level range and the encounter rate.
 - **Built with:** JavaScript, HTML, CSS • **Deployed on:** Vercel
