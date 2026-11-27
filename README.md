@@ -5,6 +5,11 @@
 [LinkedIn](www.linkedin.com/in/-saad-abdullah) • [GitHub](https://github.com/Abdullah-3600) • [Email](mailto:saad.abdullah.3600@gmail.com)
 
 ---
+<p align="center">
+  <img src="https://github-profiles-insights.vercel.app/api/insight?username=Abdullah-3600&card=streak&theme=ember_void&transparent=true" alt="GitHub Insights" />
+</p>
+
+---
 
 ## About Me
 
